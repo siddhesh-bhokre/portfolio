@@ -24,8 +24,8 @@ Hi, I'm **Siddheshwar Bhokre**, a **Computer Engineering** student at **G.H. Rai
 
 I have hands-on experience with the following technologies:
 
-- **HTML5**: Structuring web pages
-- **CSS3**: Styling and animations
+- **HTML**: Structuring web pages
+- **CSS**: Styling and animations
 - **JavaScript**: Making websites interactive
 - **React**: Building dynamic UIs
 - **Node.js**: Backend development
@@ -66,9 +66,9 @@ Check back soon for details on my professional experience.
 
 Feel free to reach out to me via email:
 
-- **Email**: [siddhesh@example.com](mailto:siddhesh@example.com)
+- **Email**: [siddheshbhokre123@gmail.com](mailto:siddheshbhokre123@gmail.com)
 
-You can also connect with me on LinkedIn or GitHub:
+You can also connect with me if on LinkedIn or GitHub:
 
 - **[GitHub](https://github.com/siddhesh-bhokre)**
 - **[LinkedIn](https://linkedin.com/in/siddhesh_bhokre)**

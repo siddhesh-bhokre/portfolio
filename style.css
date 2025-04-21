@@ -198,6 +198,16 @@
     background-color: #4f9bff;
     transform: scale(1.05);
   }
+  .pending-btn {
+    background-color: #ff9800;
+    color: #fff;
+    cursor: default;
+  }
+  
+  .card.pending {
+    opacity: 0.9;
+    background-color: #fffbe6;
+  }
   /* Education Section */
   #education {
     padding: 4rem 2rem;
